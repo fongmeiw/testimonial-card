@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testimonial-card/static/css/main.89130397.css",
+    "main.js": "/testimonial-card/static/js/main.7640632b.js",
+    "static/js/453.693e685f.chunk.js": "/testimonial-card/static/js/453.693e685f.chunk.js",
+    "static/media/profile-thumbnail.png": "/testimonial-card/static/media/profile-thumbnail.deadbb4207abdaf2d33a.png",
+    "index.html": "/testimonial-card/index.html",
+    "main.89130397.css.map": "/testimonial-card/static/css/main.89130397.css.map",
+    "main.7640632b.js.map": "/testimonial-card/static/js/main.7640632b.js.map",
+    "453.693e685f.chunk.js.map": "/testimonial-card/static/js/453.693e685f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89130397.css",
+    "static/js/main.7640632b.js"
+  ]
+}
